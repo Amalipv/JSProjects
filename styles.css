@@ -1,0 +1,49 @@
+body {
+  background-image: url("images/white_hilltops_mountains.jpg");
+  background-size: cover;
+}
+
+section {
+  width: 350px;
+  background-color: #6e9bb24d;
+  margin: auto;
+
+  margin-top: 8%;
+  border-radius: 30px;
+}
+
+.innerClass {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 400px;
+  font-size: 100px;
+  box-shadow: 1px -1px 8px 10px #bbd2d89e;
+  color: #618da8;
+  text-shadow: 3px 2px 4px #5688a7;
+  border-radius: 30px;
+}
+
+button {
+  color: #618da8;
+  text-shadow: 2px 1px 8px #f4f8fb;
+  border: 0.5px solid #8eb5c700;
+  background: #8eb4c5;
+  height: 100px;
+  width: 70px;
+  font-size: 90px;
+  box-shadow: 1px -1px 8px 10px #bbd2d89e;
+  border-radius: 10px;
+  text-align: center;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:active {
+  /*border: 0.5px solid #13516d00;*/
+  background-color: #8eb4c5;
+  box-shadow: 0 5px #618da8;
+  transform: translateY(4px);
+}
