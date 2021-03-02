@@ -1,2 +1,2 @@
-# JSProjects
-Projects to improve my learning skills
+# CounterProject
+Simple Counter implemented using Vue.js
