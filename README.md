@@ -1,2 +1,2 @@
 # CounterProject
-Simple Counter implemented using Vue.js
+Simple Counter with a glass Pane implemented using Vue.js
